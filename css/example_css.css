@@ -1,0 +1,23 @@
+/* Example CSS */
+
+* {
+	box-sizing: border-box;
+	font-family: arial;
+}
+body {
+	max-width: 960px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+aside {
+	float: left;
+	width: 25%;
+	padding: 0 20px 0 0;
+}
+.content {
+	float: left;
+	width: 75%;
+}
+footer {
+	clear: both;
+}
